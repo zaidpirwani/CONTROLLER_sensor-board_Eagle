@@ -188,21 +188,17 @@ RX</text>
 <text x="51.435" y="0.635" size="1.016" layer="25" font="vector" ratio="12" distance="160">5V</text>
 <text x="54.9275" y="0.635" size="1.016" layer="25" font="vector" ratio="12" distance="160">GND</text>
 <text x="25.0825" y="20.955" size="1.016" layer="25" font="vector" ratio="12">Soft-i2c</text>
-<text x="11.7475" y="0.9525" size="1.016" layer="25" font="vector" ratio="12">RX1 ------------ RX8</text>
+<text x="11.43" y="0.9525" size="1.016" layer="25" font="vector" ratio="12">RX1 ------------ RX8</text>
 <text x="2.54" y="0.9525" size="1.016" layer="25" font="vector" ratio="12">TRG8</text>
 <text x="2.2225" y="20.955" size="1.016" layer="25" font="vector" ratio="12">TRG7------------TRG1</text>
-<text x="1.27" y="19.685" size="1.4224" layer="25" font="vector" ratio="18" rot="SR270">Arduino nano</text>
-<text x="55.5625" y="37.7825" size="1.778" layer="25" font="vector" ratio="16" rot="R270">Musafir</text>
+<text x="10.16" y="11.1125" size="1.6764" layer="25" font="vector" ratio="18">Arduino nano</text>
+<text x="61.2775" y="28.575" size="1.4224" layer="25" font="vector" ratio="16" rot="R90">Musafir
+Controller
+Board</text>
 <text x="59.055" y="8.89" size="1.016" layer="25" font="vector" ratio="12" rot="R90">D4</text>
 <text x="59.055" y="6.35" size="1.016" layer="25" font="vector" ratio="12" rot="R90">D5</text>
 <text x="37.1475" y="22.86" size="1.016" layer="25" font="vector" ratio="12">GPA0-GPA7:TX1-TX8</text>
 <text x="36.5125" y="24.13" size="1.016" layer="25" font="vector" ratio="12">GPB0-GPB7:Echo8-Echo1</text>
-<text x="29.845" y="14.9225" size="1.016" layer="25" font="vector" ratio="12" rot="R90">SCL</text>
-<text x="26.3525" y="17.78" size="1.016" layer="25" font="vector" ratio="12" rot="R270">SDA</text>
-<text x="60.96" y="27.94" size="1.27" layer="25" font="vector" ratio="12" rot="R90">Controller
-   Board</text>
-<text x="62.23" y="35.56" size="1.016" layer="25" font="vector" ratio="12" rot="R90">v1</text>
-<text x="-0.635" y="16.51" size="1.016" layer="25" font="vector" ratio="12" rot="SR270">USB Insert</text>
 </plain>
 <libraries>
 <library name="Seeed-Capacitor-2016">
